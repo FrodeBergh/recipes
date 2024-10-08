@@ -1,7 +1,7 @@
 # Guacamole
 ## Ingredients
 * avocado
-* lemon
+* lime
 * garlic
 ## Instructions
 ## Test
